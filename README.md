@@ -1,7 +1,7 @@
 # 5-Project-with-Dom
 
  1. add Friends Feature
-   add-friend-feature.netlify.app
+   https://add-friend-feature.netlify.app/
 
 2. Instagram Like Button ( dubble tap on image)
    https://insta-like-button.netlify.app/
